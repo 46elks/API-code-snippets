@@ -1,0 +1,4 @@
+POST https://<API Username>:<API Password>@api.46elks.com/a1/Calls
+from=+46766861234
+to=+46723175800
+voice_start={"connect":"+461890510"}
