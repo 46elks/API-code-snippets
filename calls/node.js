@@ -2,7 +2,7 @@ var https = require('https');
 var querystring = require('querystring');
 
 var username = '<API Username>';
-var passowrd = '<API Password>';
+var password = '<API Password>';
 var postFields = {
   from:    "+46723175800", 
   to:      "+46723175800", 
